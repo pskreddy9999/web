@@ -21,6 +21,10 @@ public static void main(String[] args) throws IOException {
         ConnectProp.driver.findElement(By.id(prop.getProperty("login_btn"))).click();
         
 	}
+
+public static void get() {
+	
+}
   }
 
 

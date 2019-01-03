@@ -14,6 +14,7 @@ public class Array2D {
 		Variable.evnArray = ReadToArray("Book1.xlsx", "Sheet1");
 		String val = GetFromeArry("dsalkdjsa", "VAL3");
 		System.out.println(val);
+		String string= "njnj";
 	}
 
 	public static String[][] ReadToArray(String filePath, String SheetName) {

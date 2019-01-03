@@ -10,6 +10,8 @@ import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 
 public class HashmapData{
 	
+	public static int i=10;
+	
 public static HashMap<String, String> getData(String xlpath,String sheetName, int tcrowNum){		
 		
 		HashMap<String, String> tcData = new HashMap<>();	
